@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cank256&show_icons=true&locale=en" alt="cank256" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cank256&" alt="cank256" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cank256&" alt="cank256" /></p>
