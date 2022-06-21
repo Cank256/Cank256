@@ -8,7 +8,7 @@
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **content** and **Traveling**.
 <td >
-    [<a href="https://app.daily.dev/cank256"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>](https://api.daily.dev/devcards/3e7c6d35c0e04b2796d327183335d1d9.png?r=pl9)
+    <a href="https://app.daily.dev/cank256"><img src="https://api.daily.dev/devcards/3e7c6d35c0e04b2796d327183335d1d9.png?r=pl9" width="400" alt="Caleb Nkunze's Dev Card"/></a>
   </td>
 </tr>
 </table>
