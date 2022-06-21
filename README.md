@@ -30,7 +30,3 @@
 <p><a href="https://www.buymeacoffee.com/cank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cank" /></a></p><br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cank256&show_icons=true&locale=en&layout=compact" alt="cank256" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cank256&show_icons=true&locale=en" alt="cank256" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cank256&" alt="cank256" />
