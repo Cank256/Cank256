@@ -1,19 +1,13 @@
-### Hi, I'm Caleb Nkunze (Cank256) 👋
+<h1 align="center">Hi 👋, I'm Caleb Nkunze</h1>
+<h3 align="center">Tech and Travel is my thing</h3>
 
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am currently pursuing my **Master's in Information Technology**. <br>
-    🌱 I am currently learning **Python** and also interested in **Backend Development**.<br>
-    🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-    ✨ I love to create different types of **content** and **Traveling**.<br>
-<td >
-    <a href="https://app.daily.dev/cank256"><img src="https://api.daily.dev/devcards/3e7c6d35c0e04b2796d327183335d1d9.png?r=pl9" width="400" alt="Caleb Nkunze's Dev Card"/></a>
-  </td>
-</tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cank256&label=Profile%20views&color=0e75b6&style=flat" alt="cank256" /> </p>
 
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cank256&theme=dracula&hide_border=true)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cank256" alt="cank256" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/calebnkunze" target="blank"><img src="https://img.shields.io/twitter/follow/calebnkunze?logo=twitter&style=for-the-badge" alt="calebnkunze" /></a> </p>
+
+- 🌱 I’m currently learning **Python and Go**
 
 - 📫 How to reach me **nkunzecaleb@gmail.com**
 
@@ -40,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cank256&show_icons=true&locale=en" alt="cank256" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cank256&" alt="cank256" /></p>
-
