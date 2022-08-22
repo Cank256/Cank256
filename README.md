@@ -1,8 +1,4 @@
-<h2>Hi 👋, I'm Caleb Nkunze</h2> - <h3>Tech and Travel is my thing</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cank256&label=Profile%20views&color=0e75b6&style=flat" alt="cank256" /> </p>
-
-<p align="left"> <a href="https://twitter.com/calebnkunze" target="blank"><img src="https://img.shields.io/twitter/follow/calebnkunze?logo=twitter&style=for-the-badge" alt="calebnkunze" /></a> </p>
+<h3>Hi 👋, I'm Caleb Nkunze - Tech and Travel is my thing</h3>
 
 - 💻 I use **JavaScript (NodeJS)** and **PHP (Laravel)**
 
