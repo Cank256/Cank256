@@ -21,7 +21,7 @@
 <a href="https://medium.com/@nkunzecaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nkunzecaleb" height="30" width="40" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cank256&show_icons=true&locale=en&layout=compact" alt="cank256" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cank256&show_icons=true&locale=en&layout=compact" alt="cank256" /><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cank" /></a></p><br><br>
