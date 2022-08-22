@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/calebnkunze" target="blank"><img src="https://img.shields.io/twitter/follow/calebnkunze?logo=twitter&style=for-the-badge" alt="calebnkunze" /></a> </p>
 
+- 🌱 I use **JavaScript (NodeJS)** and **PHP (Laravel)**
+
 - 🌱 I’m currently learning **Python and Go**
 
 - 📫 How to reach me **nkunzecaleb@gmail.com**
