@@ -2,7 +2,7 @@
 
 - 💻 I use **JavaScript (NodeJS)** and **PHP (Laravel)**
 
-- 🌱 I’m currently learning **Python and Go**
+- 🌱 I’m currently learning **Python and React**
 
 - 📫 How to reach me **nkunzecaleb@gmail.com**
 
