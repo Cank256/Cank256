@@ -1,12 +1,12 @@
 Hi 👋 My name is Caleb Nkunze
 =============================
 
-Web Developer
+Software Developer
 -------------
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [nkunzecaleb@gmail.com](mailto:nkunzecaleb@gmail.com)
-* 🧠  I'm learning Vue.JS and Flutter
+* 🧠  I'm learning Vue.JS and Python(Flask and Django)
 * 🤝  I'm open to collaborating on Payment Integrations and APIs
 
 ### Skills
