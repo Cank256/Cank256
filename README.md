@@ -1,4 +1,4 @@
-Hi 👋 My name is Caleb Nkunze
+Hi 👋 I'm Caleb Nkunze
 ---
 
 ### 👨‍💻 &nbsp;About Me
