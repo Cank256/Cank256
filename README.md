@@ -6,7 +6,7 @@ Hi 👋 I'm Caleb Nkunze
 I am a tech enthusiast and passionate Software Developer from Uganda 🇺🇬, specializing in backend development, cloud computing, and scalable solutions. I do have experience in fullstack development as well With over 3 years of hands-on experience, I have contributed to diverse projects, delivering high-quality software for profit and not-profit implementation.
 
 * 🌱 Currently exploring **Blockchain and A.I** and sharing insights about programming.
-* 🧠  I'm learning Vue.JS and Python
+* 🧠  I'm learning Vue.JS and Python (FastAPI
 * 🚀 Always learning about new technologies and solving challenging problems.
 * 🤝  I love collaborating on Open-Source Projects, Payment Integrations and APIs
 
